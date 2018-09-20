@@ -172,4 +172,3 @@ OKAY, TO TELL YOU THE SECRET BEHIND OSCP EXAMS, IT'S ALL ABOUT WEB APPLICATIONS.
 [+] IF YOU FOUND A NEW PATHS, START BY EXAMINING IT AND SEARCHING FOR PUBLIC EXPLOITS TO EXPLOIT IT.
 
 # I hope this review helps a lot of people to pass their exams.
-# This review is for My Late Grandmother - May Allah Rest Her Soul.
